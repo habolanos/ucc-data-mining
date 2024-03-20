@@ -161,4 +161,4 @@ cython_debug/
 
 #DBeaver
 *.json.bak
-*credentials-config.json
+*/credentials-config.json
