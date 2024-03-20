@@ -1,3 +1,4 @@
+ cat > myspider_basico.py <<EOF
 import scrapy
 
 class BlogSpider(scrapy.Spider):
@@ -10,3 +11,4 @@ class BlogSpider(scrapy.Spider):
 
         for next_page in response.css('a.next'):
             yield response.follow(next_page, self.parse)
+EOF
