@@ -1,4 +1,4 @@
- cat > spider_basico.py <<EOF
+cat > myspider_basico.py <<EOF
 import scrapy
 
 class BlogSpider(scrapy.Spider):
