@@ -430,7 +430,7 @@
     <created_date>2024/03/12 23:01:45.968</created_date>
     <modified_user>-</modified_user>
     <modified_date>2024/03/12 23:01:45.968</modified_date>
-    <key_for_session_key/>
+    <key_for_session_key>H4sIAAAAAAAA/wMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
@@ -493,366 +493,6 @@
       <enabled>Y</enabled>
     </hop>
   </order>
-  <step>
-    <name>Table output</name>
-    <type>TableOutput</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>Chicago</connection>
-    <schema>public</schema>
-    <table>Ejemplo1</table>
-    <commit>1000</commit>
-    <truncate>N</truncate>
-    <ignore_errors>N</ignore_errors>
-    <use_batch>Y</use_batch>
-    <specify_fields>Y</specify_fields>
-    <partitioning_enabled>N</partitioning_enabled>
-    <partitioning_field/>
-    <partitioning_daily>N</partitioning_daily>
-    <partitioning_monthly>Y</partitioning_monthly>
-    <tablename_in_field>N</tablename_in_field>
-    <tablename_field/>
-    <tablename_in_table>Y</tablename_in_table>
-    <return_keys>N</return_keys>
-    <return_field/>
-    <fields>
-      <field>
-        <column_name>School ID</column_name>
-        <stream_name>School ID</stream_name>
-      </field>
-      <field>
-        <column_name>Name of School</column_name>
-        <stream_name>Name of School</stream_name>
-      </field>
-      <field>
-        <column_name>Elementary, Middle, or High School</column_name>
-        <stream_name>Elementary, Middle, or High School</stream_name>
-      </field>
-      <field>
-        <column_name>Street Address</column_name>
-        <stream_name>Street Address</stream_name>
-      </field>
-      <field>
-        <column_name>City</column_name>
-        <stream_name>City</stream_name>
-      </field>
-      <field>
-        <column_name>State</column_name>
-        <stream_name>State</stream_name>
-      </field>
-      <field>
-        <column_name>ZIP Code</column_name>
-        <stream_name>ZIP Code</stream_name>
-      </field>
-      <field>
-        <column_name>Phone Number</column_name>
-        <stream_name>Phone Number</stream_name>
-      </field>
-      <field>
-        <column_name>Link</column_name>
-        <stream_name>Link</stream_name>
-      </field>
-      <field>
-        <column_name>Network Manager</column_name>
-        <stream_name>Network Manager</stream_name>
-      </field>
-      <field>
-        <column_name>Collaborative Name</column_name>
-        <stream_name>Collaborative Name</stream_name>
-      </field>
-      <field>
-        <column_name>Adequate Yearly Progress Made?</column_name>
-        <stream_name>Adequate Yearly Progress Made?</stream_name>
-      </field>
-      <field>
-        <column_name>Track Schedule</column_name>
-        <stream_name>Track Schedule</stream_name>
-      </field>
-      <field>
-        <column_name>CPS Performance Policy Status</column_name>
-        <stream_name>CPS Performance Policy Status</stream_name>
-      </field>
-      <field>
-        <column_name>CPS Performance Policy Level</column_name>
-        <stream_name>CPS Performance Policy Level</stream_name>
-      </field>
-      <field>
-        <column_name>Healthy Schools Certified?</column_name>
-        <stream_name>Healthy Schools Certified?</stream_name>
-      </field>
-      <field>
-        <column_name>Safety Icon</column_name>
-        <stream_name>Safety Icon</stream_name>
-      </field>
-      <field>
-        <column_name>Safety Score</column_name>
-        <stream_name>Safety Score</stream_name>
-      </field>
-      <field>
-        <column_name>Family Involvement Icon</column_name>
-        <stream_name>Family Involvement Icon</stream_name>
-      </field>
-      <field>
-        <column_name>Family Involvement Score</column_name>
-        <stream_name>Family Involvement Score</stream_name>
-      </field>
-      <field>
-        <column_name>Environment Icon</column_name>
-        <stream_name>Environment Icon</stream_name>
-      </field>
-      <field>
-        <column_name>Environment Score</column_name>
-        <stream_name>Environment Score</stream_name>
-      </field>
-      <field>
-        <column_name>Instruction Icon</column_name>
-        <stream_name>Instruction Icon</stream_name>
-      </field>
-      <field>
-        <column_name>Instruction Score</column_name>
-        <stream_name>Instruction Score</stream_name>
-      </field>
-      <field>
-        <column_name>Leaders Icon</column_name>
-        <stream_name>Leaders Icon</stream_name>
-      </field>
-      <field>
-        <column_name>Leaders Score</column_name>
-        <stream_name>Leaders Score</stream_name>
-      </field>
-      <field>
-        <column_name>Teachers Icon</column_name>
-        <stream_name>Teachers Icon</stream_name>
-      </field>
-      <field>
-        <column_name>Teachers Score</column_name>
-        <stream_name>Teachers Score</stream_name>
-      </field>
-      <field>
-        <column_name>Parent Engagement Icon</column_name>
-        <stream_name>Parent Engagement Icon</stream_name>
-      </field>
-      <field>
-        <column_name>Parent Engagement Score</column_name>
-        <stream_name>Parent Engagement Score</stream_name>
-      </field>
-      <field>
-        <column_name>Parent Environment Icon</column_name>
-        <stream_name>Parent Environment Icon</stream_name>
-      </field>
-      <field>
-        <column_name>Parent Environment Score</column_name>
-        <stream_name>Parent Environment Score</stream_name>
-      </field>
-      <field>
-        <column_name>Average Student Attendance</column_name>
-        <stream_name>Average Student Attendance</stream_name>
-      </field>
-      <field>
-        <column_name>Rate of Misconducts (per 100 students)</column_name>
-        <stream_name>Rate of Misconducts (per 100 students)</stream_name>
-      </field>
-      <field>
-        <column_name>Average Teacher Attendance</column_name>
-        <stream_name>Average Teacher Attendance</stream_name>
-      </field>
-      <field>
-        <column_name>Individualized Education Program Compliance Rate</column_name>
-        <stream_name>Individualized Education Program Compliance Rate</stream_name>
-      </field>
-      <field>
-        <column_name>Pk-2 Literacy %</column_name>
-        <stream_name>Pk-2 Literacy %</stream_name>
-      </field>
-      <field>
-        <column_name>Pk-2 Math %</column_name>
-        <stream_name>Pk-2 Math %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr3-5 Grade Level Math %</column_name>
-        <stream_name>Gr3-5 Grade Level Math %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr3-5 Grade Level Read %</column_name>
-        <stream_name>Gr3-5 Grade Level Read %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr3-5 Keep Pace Read %</column_name>
-        <stream_name>Gr3-5 Keep Pace Read %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr3-5 Keep Pace Math %</column_name>
-        <stream_name>Gr3-5 Keep Pace Math %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr6-8 Grade Level Math %</column_name>
-        <stream_name>Gr6-8 Grade Level Math %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr6-8 Grade Level Read %</column_name>
-        <stream_name>Gr6-8 Grade Level Read %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr6-8 Keep Pace Math%</column_name>
-        <stream_name>Gr6-8 Keep Pace Math%</stream_name>
-      </field>
-      <field>
-        <column_name>Gr6-8 Keep Pace Read %</column_name>
-        <stream_name>Gr6-8 Keep Pace Read %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr-8 Explore Math %</column_name>
-        <stream_name>Gr-8 Explore Math %</stream_name>
-      </field>
-      <field>
-        <column_name>Gr-8 Explore Read %</column_name>
-        <stream_name>Gr-8 Explore Read %</stream_name>
-      </field>
-      <field>
-        <column_name>ISAT Exceeding Math %</column_name>
-        <stream_name>ISAT Exceeding Math %</stream_name>
-      </field>
-      <field>
-        <column_name>ISAT Exceeding Reading %</column_name>
-        <stream_name>ISAT Exceeding Reading %</stream_name>
-      </field>
-      <field>
-        <column_name>ISAT Value Add Math</column_name>
-        <stream_name>ISAT Value Add Math</stream_name>
-      </field>
-      <field>
-        <column_name>ISAT Value Add Read</column_name>
-        <stream_name>ISAT Value Add Read</stream_name>
-      </field>
-      <field>
-        <column_name>ISAT Value Add Color Math</column_name>
-        <stream_name>ISAT Value Add Color Math</stream_name>
-      </field>
-      <field>
-        <column_name>ISAT Value Add Color Read</column_name>
-        <stream_name>ISAT Value Add Color Read</stream_name>
-      </field>
-      <field>
-        <column_name>Students Taking  Algebra %</column_name>
-        <stream_name>Students Taking  Algebra %</stream_name>
-      </field>
-      <field>
-        <column_name>Students Passing  Algebra %</column_name>
-        <stream_name>Students Passing  Algebra %</stream_name>
-      </field>
-      <field>
-        <column_name>9th Grade EXPLORE (2009)</column_name>
-        <stream_name>9th Grade EXPLORE (2009)</stream_name>
-      </field>
-      <field>
-        <column_name>9th Grade EXPLORE (2010)</column_name>
-        <stream_name>9th Grade EXPLORE (2010)</stream_name>
-      </field>
-      <field>
-        <column_name>10th Grade PLAN (2009)</column_name>
-        <stream_name>10th Grade PLAN (2009)</stream_name>
-      </field>
-      <field>
-        <column_name>10th Grade PLAN (2010)</column_name>
-        <stream_name>10th Grade PLAN (2010)</stream_name>
-      </field>
-      <field>
-        <column_name>Net Change EXPLORE and PLAN</column_name>
-        <stream_name>Net Change EXPLORE and PLAN</stream_name>
-      </field>
-      <field>
-        <column_name>11th Grade Average ACT (2011)</column_name>
-        <stream_name>11th Grade Average ACT (2011)</stream_name>
-      </field>
-      <field>
-        <column_name>Net Change PLAN and ACT</column_name>
-        <stream_name>Net Change PLAN and ACT</stream_name>
-      </field>
-      <field>
-        <column_name>College Eligibility %</column_name>
-        <stream_name>College Eligibility %</stream_name>
-      </field>
-      <field>
-        <column_name>Graduation Rate %</column_name>
-        <stream_name>Graduation Rate %</stream_name>
-      </field>
-      <field>
-        <column_name>College Enrollment Rate %</column_name>
-        <stream_name>College Enrollment Rate %</stream_name>
-      </field>
-      <field>
-        <column_name>College Enrollment (number of students)</column_name>
-        <stream_name>College Enrollment (number of students)</stream_name>
-      </field>
-      <field>
-        <column_name>General Services Route</column_name>
-        <stream_name>General Services Route</stream_name>
-      </field>
-      <field>
-        <column_name>Freshman on Track Rate %</column_name>
-        <stream_name>Freshman on Track Rate %</stream_name>
-      </field>
-      <field>
-        <column_name>RCDTS Code</column_name>
-        <stream_name>RCDTS Code</stream_name>
-      </field>
-      <field>
-        <column_name>X_COORDINATE</column_name>
-        <stream_name>X_COORDINATE</stream_name>
-      </field>
-      <field>
-        <column_name>Y_COORDINATE</column_name>
-        <stream_name>Y_COORDINATE</stream_name>
-      </field>
-      <field>
-        <column_name>Latitude</column_name>
-        <stream_name>Latitude</stream_name>
-      </field>
-      <field>
-        <column_name>Longitude</column_name>
-        <stream_name>Longitude</stream_name>
-      </field>
-      <field>
-        <column_name>Community Area Number</column_name>
-        <stream_name>Community Area Number</stream_name>
-      </field>
-      <field>
-        <column_name>Community Area Name</column_name>
-        <stream_name>Community Area Name</stream_name>
-      </field>
-      <field>
-        <column_name>Ward</column_name>
-        <stream_name>Ward</stream_name>
-      </field>
-      <field>
-        <column_name>Police District</column_name>
-        <stream_name>Police District</stream_name>
-      </field>
-      <field>
-        <column_name>Location</column_name>
-        <stream_name>Location</stream_name>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>464</xloc>
-      <yloc>240</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
   <step>
     <name>CSV file input</name>
     <type>CsvInput</type>
@@ -1759,6 +1399,366 @@
     </remotesteps>
     <GUI>
       <xloc>240</xloc>
+      <yloc>256</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Table output</name>
+    <type>TableOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <connection>Chicago</connection>
+    <schema>public</schema>
+    <table>Ejemplo1</table>
+    <commit>1000</commit>
+    <truncate>N</truncate>
+    <ignore_errors>N</ignore_errors>
+    <use_batch>Y</use_batch>
+    <specify_fields>Y</specify_fields>
+    <partitioning_enabled>N</partitioning_enabled>
+    <partitioning_field/>
+    <partitioning_daily>N</partitioning_daily>
+    <partitioning_monthly>Y</partitioning_monthly>
+    <tablename_in_field>N</tablename_in_field>
+    <tablename_field/>
+    <tablename_in_table>Y</tablename_in_table>
+    <return_keys>N</return_keys>
+    <return_field/>
+    <fields>
+      <field>
+        <column_name>School ID</column_name>
+        <stream_name>School ID</stream_name>
+      </field>
+      <field>
+        <column_name>Name of School</column_name>
+        <stream_name>Name of School</stream_name>
+      </field>
+      <field>
+        <column_name>Elementary, Middle, or High School</column_name>
+        <stream_name>Elementary, Middle, or High School</stream_name>
+      </field>
+      <field>
+        <column_name>Street Address</column_name>
+        <stream_name>Street Address</stream_name>
+      </field>
+      <field>
+        <column_name>City</column_name>
+        <stream_name>City</stream_name>
+      </field>
+      <field>
+        <column_name>State</column_name>
+        <stream_name>State</stream_name>
+      </field>
+      <field>
+        <column_name>ZIP Code</column_name>
+        <stream_name>ZIP Code</stream_name>
+      </field>
+      <field>
+        <column_name>Phone Number</column_name>
+        <stream_name>Phone Number</stream_name>
+      </field>
+      <field>
+        <column_name>Link</column_name>
+        <stream_name>Link</stream_name>
+      </field>
+      <field>
+        <column_name>Network Manager</column_name>
+        <stream_name>Network Manager</stream_name>
+      </field>
+      <field>
+        <column_name>Collaborative Name</column_name>
+        <stream_name>Collaborative Name</stream_name>
+      </field>
+      <field>
+        <column_name>Adequate Yearly Progress Made?</column_name>
+        <stream_name>Adequate Yearly Progress Made?</stream_name>
+      </field>
+      <field>
+        <column_name>Track Schedule</column_name>
+        <stream_name>Track Schedule</stream_name>
+      </field>
+      <field>
+        <column_name>CPS Performance Policy Status</column_name>
+        <stream_name>CPS Performance Policy Status</stream_name>
+      </field>
+      <field>
+        <column_name>CPS Performance Policy Level</column_name>
+        <stream_name>CPS Performance Policy Level</stream_name>
+      </field>
+      <field>
+        <column_name>Healthy Schools Certified?</column_name>
+        <stream_name>Healthy Schools Certified?</stream_name>
+      </field>
+      <field>
+        <column_name>Safety Icon</column_name>
+        <stream_name>Safety Icon</stream_name>
+      </field>
+      <field>
+        <column_name>Safety Score</column_name>
+        <stream_name>Safety Score</stream_name>
+      </field>
+      <field>
+        <column_name>Family Involvement Icon</column_name>
+        <stream_name>Family Involvement Icon</stream_name>
+      </field>
+      <field>
+        <column_name>Family Involvement Score</column_name>
+        <stream_name>Family Involvement Score</stream_name>
+      </field>
+      <field>
+        <column_name>Environment Icon</column_name>
+        <stream_name>Environment Icon</stream_name>
+      </field>
+      <field>
+        <column_name>Environment Score</column_name>
+        <stream_name>Environment Score</stream_name>
+      </field>
+      <field>
+        <column_name>Instruction Icon</column_name>
+        <stream_name>Instruction Icon</stream_name>
+      </field>
+      <field>
+        <column_name>Instruction Score</column_name>
+        <stream_name>Instruction Score</stream_name>
+      </field>
+      <field>
+        <column_name>Leaders Icon</column_name>
+        <stream_name>Leaders Icon</stream_name>
+      </field>
+      <field>
+        <column_name>Leaders Score</column_name>
+        <stream_name>Leaders Score</stream_name>
+      </field>
+      <field>
+        <column_name>Teachers Icon</column_name>
+        <stream_name>Teachers Icon</stream_name>
+      </field>
+      <field>
+        <column_name>Teachers Score</column_name>
+        <stream_name>Teachers Score</stream_name>
+      </field>
+      <field>
+        <column_name>Parent Engagement Icon</column_name>
+        <stream_name>Parent Engagement Icon</stream_name>
+      </field>
+      <field>
+        <column_name>Parent Engagement Score</column_name>
+        <stream_name>Parent Engagement Score</stream_name>
+      </field>
+      <field>
+        <column_name>Parent Environment Icon</column_name>
+        <stream_name>Parent Environment Icon</stream_name>
+      </field>
+      <field>
+        <column_name>Parent Environment Score</column_name>
+        <stream_name>Parent Environment Score</stream_name>
+      </field>
+      <field>
+        <column_name>Average Student Attendance</column_name>
+        <stream_name>Average Student Attendance</stream_name>
+      </field>
+      <field>
+        <column_name>Rate of Misconducts (per 100 students)</column_name>
+        <stream_name>Rate of Misconducts (per 100 students)</stream_name>
+      </field>
+      <field>
+        <column_name>Average Teacher Attendance</column_name>
+        <stream_name>Average Teacher Attendance</stream_name>
+      </field>
+      <field>
+        <column_name>Individualized Education Program Compliance Rate</column_name>
+        <stream_name>Individualized Education Program Compliance Rate</stream_name>
+      </field>
+      <field>
+        <column_name>Pk-2 Literacy %</column_name>
+        <stream_name>Pk-2 Literacy %</stream_name>
+      </field>
+      <field>
+        <column_name>Pk-2 Math %</column_name>
+        <stream_name>Pk-2 Math %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr3-5 Grade Level Math %</column_name>
+        <stream_name>Gr3-5 Grade Level Math %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr3-5 Grade Level Read %</column_name>
+        <stream_name>Gr3-5 Grade Level Read %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr3-5 Keep Pace Read %</column_name>
+        <stream_name>Gr3-5 Keep Pace Read %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr3-5 Keep Pace Math %</column_name>
+        <stream_name>Gr3-5 Keep Pace Math %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr6-8 Grade Level Math %</column_name>
+        <stream_name>Gr6-8 Grade Level Math %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr6-8 Grade Level Read %</column_name>
+        <stream_name>Gr6-8 Grade Level Read %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr6-8 Keep Pace Math%</column_name>
+        <stream_name>Gr6-8 Keep Pace Math%</stream_name>
+      </field>
+      <field>
+        <column_name>Gr6-8 Keep Pace Read %</column_name>
+        <stream_name>Gr6-8 Keep Pace Read %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr-8 Explore Math %</column_name>
+        <stream_name>Gr-8 Explore Math %</stream_name>
+      </field>
+      <field>
+        <column_name>Gr-8 Explore Read %</column_name>
+        <stream_name>Gr-8 Explore Read %</stream_name>
+      </field>
+      <field>
+        <column_name>ISAT Exceeding Math %</column_name>
+        <stream_name>ISAT Exceeding Math %</stream_name>
+      </field>
+      <field>
+        <column_name>ISAT Exceeding Reading %</column_name>
+        <stream_name>ISAT Exceeding Reading %</stream_name>
+      </field>
+      <field>
+        <column_name>ISAT Value Add Math</column_name>
+        <stream_name>ISAT Value Add Math</stream_name>
+      </field>
+      <field>
+        <column_name>ISAT Value Add Read</column_name>
+        <stream_name>ISAT Value Add Read</stream_name>
+      </field>
+      <field>
+        <column_name>ISAT Value Add Color Math</column_name>
+        <stream_name>ISAT Value Add Color Math</stream_name>
+      </field>
+      <field>
+        <column_name>ISAT Value Add Color Read</column_name>
+        <stream_name>ISAT Value Add Color Read</stream_name>
+      </field>
+      <field>
+        <column_name>Students Taking  Algebra %</column_name>
+        <stream_name>Students Taking  Algebra %</stream_name>
+      </field>
+      <field>
+        <column_name>Students Passing  Algebra %</column_name>
+        <stream_name>Students Passing  Algebra %</stream_name>
+      </field>
+      <field>
+        <column_name>9th Grade EXPLORE (2009)</column_name>
+        <stream_name>9th Grade EXPLORE (2009)</stream_name>
+      </field>
+      <field>
+        <column_name>9th Grade EXPLORE (2010)</column_name>
+        <stream_name>9th Grade EXPLORE (2010)</stream_name>
+      </field>
+      <field>
+        <column_name>10th Grade PLAN (2009)</column_name>
+        <stream_name>10th Grade PLAN (2009)</stream_name>
+      </field>
+      <field>
+        <column_name>10th Grade PLAN (2010)</column_name>
+        <stream_name>10th Grade PLAN (2010)</stream_name>
+      </field>
+      <field>
+        <column_name>Net Change EXPLORE and PLAN</column_name>
+        <stream_name>Net Change EXPLORE and PLAN</stream_name>
+      </field>
+      <field>
+        <column_name>11th Grade Average ACT (2011)</column_name>
+        <stream_name>11th Grade Average ACT (2011)</stream_name>
+      </field>
+      <field>
+        <column_name>Net Change PLAN and ACT</column_name>
+        <stream_name>Net Change PLAN and ACT</stream_name>
+      </field>
+      <field>
+        <column_name>College Eligibility %</column_name>
+        <stream_name>College Eligibility %</stream_name>
+      </field>
+      <field>
+        <column_name>Graduation Rate %</column_name>
+        <stream_name>Graduation Rate %</stream_name>
+      </field>
+      <field>
+        <column_name>College Enrollment Rate %</column_name>
+        <stream_name>College Enrollment Rate %</stream_name>
+      </field>
+      <field>
+        <column_name>College Enrollment (number of students)</column_name>
+        <stream_name>College Enrollment (number of students)</stream_name>
+      </field>
+      <field>
+        <column_name>General Services Route</column_name>
+        <stream_name>General Services Route</stream_name>
+      </field>
+      <field>
+        <column_name>Freshman on Track Rate %</column_name>
+        <stream_name>Freshman on Track Rate %</stream_name>
+      </field>
+      <field>
+        <column_name>RCDTS Code</column_name>
+        <stream_name>RCDTS Code</stream_name>
+      </field>
+      <field>
+        <column_name>X_COORDINATE</column_name>
+        <stream_name>X_COORDINATE</stream_name>
+      </field>
+      <field>
+        <column_name>Y_COORDINATE</column_name>
+        <stream_name>Y_COORDINATE</stream_name>
+      </field>
+      <field>
+        <column_name>Latitude</column_name>
+        <stream_name>Latitude</stream_name>
+      </field>
+      <field>
+        <column_name>Longitude</column_name>
+        <stream_name>Longitude</stream_name>
+      </field>
+      <field>
+        <column_name>Community Area Number</column_name>
+        <stream_name>Community Area Number</stream_name>
+      </field>
+      <field>
+        <column_name>Community Area Name</column_name>
+        <stream_name>Community Area Name</stream_name>
+      </field>
+      <field>
+        <column_name>Ward</column_name>
+        <stream_name>Ward</stream_name>
+      </field>
+      <field>
+        <column_name>Police District</column_name>
+        <stream_name>Police District</stream_name>
+      </field>
+      <field>
+        <column_name>Location</column_name>
+        <stream_name>Location</stream_name>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>464</xloc>
       <yloc>256</yloc>
       <draw>Y</draw>
     </GUI>
