@@ -20,9 +20,9 @@ for col in categorical_columns:
 
 # Histograma de las características numéricas
 data.hist(figsize=(10, 8))
-#plt.show()
+plt.show()
 
 # Mapa de calor de la correlación
 corr_matrix = data.corr()
 sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
-#plt.show()
+plt.show()
