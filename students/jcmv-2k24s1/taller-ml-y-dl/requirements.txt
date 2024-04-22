@@ -13,3 +13,7 @@ pytz==2024.1
 seaborn==0.13.2
 six==1.16.0
 tzdata==2024.1
+scikit-learn==1.4.2
+geopandas==0.14.3
+mlxtend==0.23.1
+shap==0.45.0
