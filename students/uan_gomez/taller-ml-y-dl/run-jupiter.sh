@@ -1,0 +1,1 @@
+docker container run -it --name jupyter-ml --rm -p 8888:8888 -v /home/juangomez/repos-ucc/ucc-data-mining/students/uan_gomez/taller-ml-y-dl:/home/jovyan/work jupyter/base-notebook
