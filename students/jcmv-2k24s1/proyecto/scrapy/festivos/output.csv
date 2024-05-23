@@ -1,0 +1,739 @@
+Año,Fecha,Festivo,Día
+1984,1 de enero,Año Nuevo,Domingo
+1984,9 de enero,Epifanía,Lunes
+1984,19 de marzo,Día de San José,Lunes
+1984,19 de abril,Jueves Santo,Jueves
+1984,20 de abril,Viernes Santo,Viernes
+1984,1 de mayo,Día del trabajo,Martes
+1984,4 de junio,Ascensión de Jesús,Lunes
+1984,25 de junio,Corpus Christi,Lunes
+1984,2 de julio,San Pedro y San Pablo,Lunes
+1984,2 de julio,Sagrado Corazón de Jesús,Lunes
+1984,20 de julio,Día de la independencia,Viernes
+1984,7 de agosto,Batalla de Boyacá,Martes
+1984,20 de agosto,Asunción de la Virgen,Lunes
+1984,15 de octubre,Día de la raza,Lunes
+1984,5 de noviembre,Todos los Santos,Lunes
+1984,12 de noviembre,Independencia de Cartagena,Lunes
+1984,8 de diciembre,Inmaculada Concepción,Sábado
+1984,25 de diciembre,Navidad,Martes
+1985,1 de enero,Año Nuevo,Martes
+1985,7 de enero,Epifanía,Lunes
+1985,25 de marzo,Día de San José,Lunes
+1985,4 de abril,Jueves Santo,Jueves
+1985,5 de abril,Viernes Santo,Viernes
+1985,1 de mayo,Día del trabajo,Miércoles
+1985,20 de mayo,Ascensión de Jesús,Lunes
+1985,10 de junio,Corpus Christi,Lunes
+1985,17 de junio,Sagrado Corazón de Jesús,Lunes
+1985,1 de julio,San Pedro y San Pablo,Lunes
+1985,20 de julio,Día de la independencia,Sábado
+1985,7 de agosto,Batalla de Boyacá,Miércoles
+1985,19 de agosto,Asunción de la Virgen,Lunes
+1985,14 de octubre,Día de la raza,Lunes
+1985,4 de noviembre,Todos los Santos,Lunes
+1985,11 de noviembre,Independencia de Cartagena,Lunes
+1985,8 de diciembre,Inmaculada Concepción,Domingo
+1985,25 de diciembre,Navidad,Miércoles
+1986,1 de enero,Año Nuevo,Miércoles
+1986,6 de enero,Epifanía,Lunes
+1986,24 de marzo,Día de San José,Lunes
+1986,27 de marzo,Jueves Santo,Jueves
+1986,28 de marzo,Viernes Santo,Viernes
+1986,1 de mayo,Día del trabajo,Jueves
+1986,12 de mayo,Ascensión de Jesús,Lunes
+1986,2 de junio,Corpus Christi,Lunes
+1986,9 de junio,Sagrado Corazón de Jesús,Lunes
+1986,30 de junio,San Pedro y San Pablo,Lunes
+1986,20 de julio,Día de la independencia,Domingo
+1986,7 de agosto,Batalla de Boyacá,Jueves
+1986,18 de agosto,Asunción de la Virgen,Lunes
+1986,13 de octubre,Día de la raza,Lunes
+1986,3 de noviembre,Todos los Santos,Lunes
+1986,17 de noviembre,Independencia de Cartagena,Lunes
+1986,8 de diciembre,Inmaculada Concepción,Lunes
+1986,25 de diciembre,Navidad,Jueves
+1987,1 de enero,Año Nuevo,Jueves
+1987,12 de enero,Epifanía,Lunes
+1987,23 de marzo,Día de San José,Lunes
+1987,16 de abril,Jueves Santo,Jueves
+1987,17 de abril,Viernes Santo,Viernes
+1987,1 de mayo,Día del trabajo,Viernes
+1987,1 de junio,Ascensión de Jesús,Lunes
+1987,22 de junio,Corpus Christi,Lunes
+1987,29 de junio,Sagrado Corazón de Jesús,Lunes
+1987,29 de junio,San Pedro y San Pablo,Lunes
+1987,20 de julio,Día de la independencia,Lunes
+1987,7 de agosto,Batalla de Boyacá,Viernes
+1987,17 de agosto,Asunción de la Virgen,Lunes
+1987,12 de octubre,Día de la raza,Lunes
+1987,2 de noviembre,Todos los Santos,Lunes
+1987,16 de noviembre,Independencia de Cartagena,Lunes
+1987,8 de diciembre,Inmaculada Concepción,Martes
+1987,25 de diciembre,Navidad,Viernes
+1988,1 de enero,Año Nuevo,Viernes
+1988,11 de enero,Epifanía,Lunes
+1988,21 de marzo,Día de San José,Lunes
+1988,31 de marzo,Jueves Santo,Jueves
+1988,1 de abril,Viernes Santo,Viernes
+1988,1 de mayo,Día del trabajo,Domingo
+1988,16 de mayo,Ascensión de Jesús,Lunes
+1988,6 de junio,Corpus Christi,Lunes
+1988,13 de junio,Sagrado Corazón de Jesús,Lunes
+1988,4 de julio,San Pedro y San Pablo,Lunes
+1988,20 de julio,Día de la independencia,Miércoles
+1988,7 de agosto,Batalla de Boyacá,Domingo
+1988,15 de agosto,Asunción de la Virgen,Lunes
+1988,17 de octubre,Día de la raza,Lunes
+1988,7 de noviembre,Todos los Santos,Lunes
+1988,14 de noviembre,Independencia de Cartagena,Lunes
+1988,8 de diciembre,Inmaculada Concepción,Jueves
+1988,25 de diciembre,Navidad,Domingo
+1989,1 de enero,Año Nuevo,Domingo
+1989,9 de enero,Epifanía,Lunes
+1989,20 de marzo,Día de San José,Lunes
+1989,23 de marzo,Jueves Santo,Jueves
+1989,24 de marzo,Viernes Santo,Viernes
+1989,1 de mayo,Día del trabajo,Lunes
+1989,8 de mayo,Ascensión de Jesús,Lunes
+1989,29 de mayo,Corpus Christi,Lunes
+1989,5 de junio,Sagrado Corazón de Jesús,Lunes
+1989,3 de julio,San Pedro y San Pablo,Lunes
+1989,20 de julio,Día de la independencia,Jueves
+1989,7 de agosto,Batalla de Boyacá,Lunes
+1989,21 de agosto,Asunción de la Virgen,Lunes
+1989,16 de octubre,Día de la raza,Lunes
+1989,6 de noviembre,Todos los Santos,Lunes
+1989,13 de noviembre,Independencia de Cartagena,Lunes
+1989,8 de diciembre,Inmaculada Concepción,Viernes
+1989,25 de diciembre,Navidad,Lunes
+1990,1 de enero,Año Nuevo,Lunes
+1990,8 de enero,Epifanía,Lunes
+1990,19 de marzo,Día de San José,Lunes
+1990,12 de abril,Jueves Santo,Jueves
+1990,13 de abril,Viernes Santo,Viernes
+1990,1 de mayo,Día del trabajo,Martes
+1990,28 de mayo,Ascensión de Jesús,Lunes
+1990,18 de junio,Corpus Christi,Lunes
+1990,25 de junio,Sagrado Corazón de Jesús,Lunes
+1990,2 de julio,San Pedro y San Pablo,Lunes
+1990,20 de julio,Día de la independencia,Viernes
+1990,7 de agosto,Batalla de Boyacá,Martes
+1990,20 de agosto,Asunción de la Virgen,Lunes
+1990,15 de octubre,Día de la raza,Lunes
+1990,5 de noviembre,Todos los Santos,Lunes
+1990,12 de noviembre,Independencia de Cartagena,Lunes
+1990,8 de diciembre,Inmaculada Concepción,Sábado
+1990,25 de diciembre,Navidad,Martes
+1991,1 de enero,Año Nuevo,Martes
+1991,7 de enero,Epifanía,Lunes
+1991,25 de marzo,Día de San José,Lunes
+1991,28 de marzo,Jueves Santo,Jueves
+1991,29 de marzo,Viernes Santo,Viernes
+1991,1 de mayo,Día del trabajo,Miércoles
+1991,13 de mayo,Ascensión de Jesús,Lunes
+1991,3 de junio,Corpus Christi,Lunes
+1991,10 de junio,Sagrado Corazón de Jesús,Lunes
+1991,1 de julio,San Pedro y San Pablo,Lunes
+1991,20 de julio,Día de la independencia,Sábado
+1991,7 de agosto,Batalla de Boyacá,Miércoles
+1991,19 de agosto,Asunción de la Virgen,Lunes
+1991,14 de octubre,Día de la raza,Lunes
+1991,4 de noviembre,Todos los Santos,Lunes
+1991,11 de noviembre,Independencia de Cartagena,Lunes
+1991,8 de diciembre,Inmaculada Concepción,Domingo
+1991,25 de diciembre,Navidad,Miércoles
+1992,1 de enero,Año Nuevo,Miércoles
+1992,6 de enero,Epifanía,Lunes
+1992,23 de marzo,Día de San José,Lunes
+1992,16 de abril,Jueves Santo,Jueves
+1992,17 de abril,Viernes Santo,Viernes
+1992,1 de mayo,Día del trabajo,Viernes
+1992,1 de junio,Ascensión de Jesús,Lunes
+1992,22 de junio,Corpus Christi,Lunes
+1992,29 de junio,Sagrado Corazón de Jesús,Lunes
+1992,29 de junio,San Pedro y San Pablo,Lunes
+1992,20 de julio,Día de la independencia,Lunes
+1992,7 de agosto,Batalla de Boyacá,Viernes
+1992,17 de agosto,Asunción de la Virgen,Lunes
+1992,12 de octubre,Día de la raza,Lunes
+1992,2 de noviembre,Todos los Santos,Lunes
+1992,16 de noviembre,Independencia de Cartagena,Lunes
+1992,8 de diciembre,Inmaculada Concepción,Martes
+1992,25 de diciembre,Navidad,Viernes
+1993,1 de enero,Año Nuevo,Viernes
+1993,11 de enero,Epifanía,Lunes
+1993,22 de marzo,Día de San José,Lunes
+1993,8 de abril,Jueves Santo,Jueves
+1993,9 de abril,Viernes Santo,Viernes
+1993,1 de mayo,Día del trabajo,Sábado
+1993,24 de mayo,Ascensión de Jesús,Lunes
+1993,14 de junio,Corpus Christi,Lunes
+1993,21 de junio,Sagrado Corazón de Jesús,Lunes
+1993,5 de julio,San Pedro y San Pablo,Lunes
+1993,20 de julio,Día de la independencia,Martes
+1993,7 de agosto,Batalla de Boyacá,Sábado
+1993,16 de agosto,Asunción de la Virgen,Lunes
+1993,18 de octubre,Día de la raza,Lunes
+1993,1 de noviembre,Todos los Santos,Lunes
+1993,15 de noviembre,Independencia de Cartagena,Lunes
+1993,8 de diciembre,Inmaculada Concepción,Miércoles
+1993,25 de diciembre,Navidad,Sábado
+1994,1 de enero,Año Nuevo,Sábado
+1994,10 de enero,Epifanía,Lunes
+1994,21 de marzo,Día de San José,Lunes
+1994,31 de marzo,Jueves Santo,Jueves
+1994,1 de abril,Viernes Santo,Viernes
+1994,1 de mayo,Día del trabajo,Domingo
+1994,16 de mayo,Ascensión de Jesús,Lunes
+1994,6 de junio,Corpus Christi,Lunes
+1994,13 de junio,Sagrado Corazón de Jesús,Lunes
+1994,4 de julio,San Pedro y San Pablo,Lunes
+1994,20 de julio,Día de la independencia,Miércoles
+1994,7 de agosto,Batalla de Boyacá,Domingo
+1994,15 de agosto,Asunción de la Virgen,Lunes
+1994,17 de octubre,Día de la raza,Lunes
+1994,7 de noviembre,Todos los Santos,Lunes
+1994,14 de noviembre,Independencia de Cartagena,Lunes
+1994,8 de diciembre,Inmaculada Concepción,Jueves
+1994,25 de diciembre,Navidad,Domingo
+1995,1 de enero,Año Nuevo,Domingo
+1995,9 de enero,Epifanía,Lunes
+1995,20 de marzo,Día de San José,Lunes
+1995,13 de abril,Jueves Santo,Jueves
+1995,14 de abril,Viernes Santo,Viernes
+1995,1 de mayo,Día del trabajo,Lunes
+1995,29 de mayo,Ascensión de Jesús,Lunes
+1995,19 de junio,Corpus Christi,Lunes
+1995,26 de junio,Sagrado Corazón de Jesús,Lunes
+1995,3 de julio,San Pedro y San Pablo,Lunes
+1995,20 de julio,Día de la independencia,Jueves
+1995,7 de agosto,Batalla de Boyacá,Lunes
+1995,21 de agosto,Asunción de la Virgen,Lunes
+1995,16 de octubre,Día de la raza,Lunes
+1995,6 de noviembre,Todos los Santos,Lunes
+1995,13 de noviembre,Independencia de Cartagena,Lunes
+1995,8 de diciembre,Inmaculada Concepción,Viernes
+1995,25 de diciembre,Navidad,Lunes
+1996,1 de enero,Año Nuevo,Lunes
+1996,8 de enero,Epifanía,Lunes
+1996,25 de marzo,Día de San José,Lunes
+1996,4 de abril,Jueves Santo,Jueves
+1996,5 de abril,Viernes Santo,Viernes
+1996,1 de mayo,Día del trabajo,Miércoles
+1996,20 de mayo,Ascensión de Jesús,Lunes
+1996,10 de junio,Corpus Christi,Lunes
+1996,17 de junio,Sagrado Corazón de Jesús,Lunes
+1996,1 de julio,San Pedro y San Pablo,Lunes
+1996,20 de julio,Día de la independencia,Sábado
+1996,7 de agosto,Batalla de Boyacá,Miércoles
+1996,19 de agosto,Asunción de la Virgen,Lunes
+1996,14 de octubre,Día de la raza,Lunes
+1996,4 de noviembre,Todos los Santos,Lunes
+1996,11 de noviembre,Independencia de Cartagena,Lunes
+1996,8 de diciembre,Inmaculada Concepción,Domingo
+1996,25 de diciembre,Navidad,Miércoles
+1997,1 de enero,Año Nuevo,Miércoles
+1997,6 de enero,Epifanía,Lunes
+1997,24 de marzo,Día de San José,Lunes
+1997,27 de marzo,Jueves Santo,Jueves
+1997,28 de marzo,Viernes Santo,Viernes
+1997,1 de mayo,Día del trabajo,Jueves
+1997,12 de mayo,Ascensión de Jesús,Lunes
+1997,2 de junio,Corpus Christi,Lunes
+1997,9 de junio,Sagrado Corazón de Jesús,Lunes
+1997,30 de junio,San Pedro y San Pablo,Lunes
+1997,20 de julio,Día de la independencia,Domingo
+1997,7 de agosto,Batalla de Boyacá,Jueves
+1997,18 de agosto,Asunción de la Virgen,Lunes
+1997,13 de octubre,Día de la raza,Lunes
+1997,3 de noviembre,Todos los Santos,Lunes
+1997,17 de noviembre,Independencia de Cartagena,Lunes
+1997,8 de diciembre,Inmaculada Concepción,Lunes
+1997,25 de diciembre,Navidad,Jueves
+1998,1 de enero,Año Nuevo,Jueves
+1998,12 de enero,Epifanía,Lunes
+1998,23 de marzo,Día de San José,Lunes
+1998,9 de abril,Jueves Santo,Jueves
+1998,10 de abril,Viernes Santo,Viernes
+1998,1 de mayo,Día del trabajo,Viernes
+1998,25 de mayo,Ascensión de Jesús,Lunes
+1998,15 de junio,Corpus Christi,Lunes
+1998,22 de junio,Sagrado Corazón de Jesús,Lunes
+1998,29 de junio,San Pedro y San Pablo,Lunes
+1998,20 de julio,Día de la independencia,Lunes
+1998,7 de agosto,Batalla de Boyacá,Viernes
+1998,17 de agosto,Asunción de la Virgen,Lunes
+1998,12 de octubre,Día de la raza,Lunes
+1998,2 de noviembre,Todos los Santos,Lunes
+1998,16 de noviembre,Independencia de Cartagena,Lunes
+1998,8 de diciembre,Inmaculada Concepción,Martes
+1998,25 de diciembre,Navidad,Viernes
+1999,1 de enero,Año Nuevo,Viernes
+1999,11 de enero,Epifanía,Lunes
+1999,22 de marzo,Día de San José,Lunes
+1999,1 de abril,Jueves Santo,Jueves
+1999,2 de abril,Viernes Santo,Viernes
+1999,1 de mayo,Día del trabajo,Sábado
+1999,17 de mayo,Ascensión de Jesús,Lunes
+1999,7 de junio,Corpus Christi,Lunes
+1999,14 de junio,Sagrado Corazón de Jesús,Lunes
+1999,5 de julio,San Pedro y San Pablo,Lunes
+1999,20 de julio,Día de la independencia,Martes
+1999,7 de agosto,Batalla de Boyacá,Sábado
+1999,16 de agosto,Asunción de la Virgen,Lunes
+1999,18 de octubre,Día de la raza,Lunes
+1999,1 de noviembre,Todos los Santos,Lunes
+1999,15 de noviembre,Independencia de Cartagena,Lunes
+1999,8 de diciembre,Inmaculada Concepción,Miércoles
+1999,25 de diciembre,Navidad,Sábado
+2000,1 de enero,Año Nuevo,Sábado
+2000,10 de enero,Epifanía,Lunes
+2000,20 de marzo,Día de San José,Lunes
+2000,20 de abril,Jueves Santo,Jueves
+2000,21 de abril,Viernes Santo,Viernes
+2000,1 de mayo,Día del trabajo,Lunes
+2000,5 de junio,Ascensión de Jesús,Lunes
+2000,26 de junio,Corpus Christi,Lunes
+2000,3 de julio,Sagrado Corazón de Jesús,Lunes
+2000,3 de julio,San Pedro y San Pablo,Lunes
+2000,20 de julio,Día de la independencia,Jueves
+2000,7 de agosto,Batalla de Boyacá,Lunes
+2000,21 de agosto,Asunción de la Virgen,Lunes
+2000,16 de octubre,Día de la raza,Lunes
+2000,6 de noviembre,Todos los Santos,Lunes
+2000,13 de noviembre,Independencia de Cartagena,Lunes
+2000,8 de diciembre,Inmaculada Concepción,Viernes
+2000,25 de diciembre,Navidad,Lunes
+2001,1 de enero,Año Nuevo,Lunes
+2001,8 de enero,Epifanía,Lunes
+2001,19 de marzo,Día de San José,Lunes
+2001,12 de abril,Jueves Santo,Jueves
+2001,13 de abril,Viernes Santo,Viernes
+2001,1 de mayo,Día del trabajo,Martes
+2001,28 de mayo,Ascensión de Jesús,Lunes
+2001,18 de junio,Corpus Christi,Lunes
+2001,25 de junio,Sagrado Corazón de Jesús,Lunes
+2001,2 de julio,San Pedro y San Pablo,Lunes
+2001,20 de julio,Día de la independencia,Viernes
+2001,7 de agosto,Batalla de Boyacá,Martes
+2001,20 de agosto,Asunción de la Virgen,Lunes
+2001,15 de octubre,Día de la raza,Lunes
+2001,5 de noviembre,Todos los Santos,Lunes
+2001,12 de noviembre,Independencia de Cartagena,Lunes
+2001,8 de diciembre,Inmaculada Concepción,Sábado
+2001,25 de diciembre,Navidad,Martes
+2002,1 de enero,Año Nuevo,Martes
+2002,7 de enero,Epifanía,Lunes
+2002,25 de marzo,Día de San José,Lunes
+2002,28 de marzo,Jueves Santo,Jueves
+2002,29 de marzo,Viernes Santo,Viernes
+2002,1 de mayo,Día del trabajo,Miércoles
+2002,13 de mayo,Ascensión de Jesús,Lunes
+2002,3 de junio,Corpus Christi,Lunes
+2002,10 de junio,Sagrado Corazón de Jesús,Lunes
+2002,1 de julio,San Pedro y San Pablo,Lunes
+2002,20 de julio,Día de la independencia,Sábado
+2002,7 de agosto,Batalla de Boyacá,Miércoles
+2002,19 de agosto,Asunción de la Virgen,Lunes
+2002,14 de octubre,Día de la raza,Lunes
+2002,4 de noviembre,Todos los Santos,Lunes
+2002,11 de noviembre,Independencia de Cartagena,Lunes
+2002,8 de diciembre,Inmaculada Concepción,Domingo
+2002,25 de diciembre,Navidad,Miércoles
+2003,1 de enero,Año Nuevo,Miércoles
+2003,6 de enero,Epifanía,Lunes
+2003,24 de marzo,Día de San José,Lunes
+2003,17 de abril,Jueves Santo,Jueves
+2003,18 de abril,Viernes Santo,Viernes
+2003,1 de mayo,Día del trabajo,Jueves
+2003,2 de junio,Ascensión de Jesús,Lunes
+2003,23 de junio,Corpus Christi,Lunes
+2003,30 de junio,Sagrado Corazón de Jesús,Lunes
+2003,30 de junio,San Pedro y San Pablo,Lunes
+2003,20 de julio,Día de la independencia,Domingo
+2003,7 de agosto,Batalla de Boyacá,Jueves
+2003,18 de agosto,Asunción de la Virgen,Lunes
+2003,13 de octubre,Día de la raza,Lunes
+2003,3 de noviembre,Todos los Santos,Lunes
+2003,17 de noviembre,Independencia de Cartagena,Lunes
+2003,8 de diciembre,Inmaculada Concepción,Lunes
+2003,25 de diciembre,Navidad,Jueves
+2004,1 de enero,Año Nuevo,Jueves
+2004,12 de enero,Epifanía,Lunes
+2004,22 de marzo,Día de San José,Lunes
+2004,8 de abril,Jueves Santo,Jueves
+2004,9 de abril,Viernes Santo,Viernes
+2004,1 de mayo,Día del trabajo,Sábado
+2004,24 de mayo,Ascensión de Jesús,Lunes
+2004,14 de junio,Corpus Christi,Lunes
+2004,21 de junio,Sagrado Corazón de Jesús,Lunes
+2004,5 de julio,San Pedro y San Pablo,Lunes
+2004,20 de julio,Día de la independencia,Martes
+2004,7 de agosto,Batalla de Boyacá,Sábado
+2004,16 de agosto,Asunción de la Virgen,Lunes
+2004,18 de octubre,Día de la raza,Lunes
+2004,1 de noviembre,Todos los Santos,Lunes
+2004,15 de noviembre,Independencia de Cartagena,Lunes
+2004,8 de diciembre,Inmaculada Concepción,Miércoles
+2004,25 de diciembre,Navidad,Sábado
+2005,1 de enero,Año Nuevo,Sábado
+2005,10 de enero,Epifanía,Lunes
+2005,21 de marzo,Día de San José,Lunes
+2005,24 de marzo,Jueves Santo,Jueves
+2005,25 de marzo,Viernes Santo,Viernes
+2005,1 de mayo,Día del trabajo,Domingo
+2005,9 de mayo,Ascensión de Jesús,Lunes
+2005,30 de mayo,Corpus Christi,Lunes
+2005,6 de junio,Sagrado Corazón de Jesús,Lunes
+2005,4 de julio,San Pedro y San Pablo,Lunes
+2005,20 de julio,Día de la independencia,Miércoles
+2005,7 de agosto,Batalla de Boyacá,Domingo
+2005,15 de agosto,Asunción de la Virgen,Lunes
+2005,17 de octubre,Día de la raza,Lunes
+2005,7 de noviembre,Todos los Santos,Lunes
+2005,14 de noviembre,Independencia de Cartagena,Lunes
+2005,8 de diciembre,Inmaculada Concepción,Jueves
+2005,25 de diciembre,Navidad,Domingo
+2006,1 de enero,Año Nuevo,Domingo
+2006,9 de enero,Epifanía,Lunes
+2006,20 de marzo,Día de San José,Lunes
+2006,13 de abril,Jueves Santo,Jueves
+2006,14 de abril,Viernes Santo,Viernes
+2006,1 de mayo,Día del trabajo,Lunes
+2006,29 de mayo,Ascensión de Jesús,Lunes
+2006,19 de junio,Corpus Christi,Lunes
+2006,26 de junio,Sagrado Corazón de Jesús,Lunes
+2006,3 de julio,San Pedro y San Pablo,Lunes
+2006,20 de julio,Día de la independencia,Jueves
+2006,7 de agosto,Batalla de Boyacá,Lunes
+2006,21 de agosto,Asunción de la Virgen,Lunes
+2006,16 de octubre,Día de la raza,Lunes
+2006,6 de noviembre,Todos los Santos,Lunes
+2006,13 de noviembre,Independencia de Cartagena,Lunes
+2006,8 de diciembre,Inmaculada Concepción,Viernes
+2006,25 de diciembre,Navidad,Lunes
+2007,1 de enero,Año Nuevo,Lunes
+2007,8 de enero,Epifanía,Lunes
+2007,19 de marzo,Día de San José,Lunes
+2007,5 de abril,Jueves Santo,Jueves
+2007,6 de abril,Viernes Santo,Viernes
+2007,1 de mayo,Día del trabajo,Martes
+2007,21 de mayo,Ascensión de Jesús,Lunes
+2007,11 de junio,Corpus Christi,Lunes
+2007,18 de junio,Sagrado Corazón de Jesús,Lunes
+2007,2 de julio,San Pedro y San Pablo,Lunes
+2007,20 de julio,Día de la independencia,Viernes
+2007,7 de agosto,Batalla de Boyacá,Martes
+2007,20 de agosto,Asunción de la Virgen,Lunes
+2007,15 de octubre,Día de la raza,Lunes
+2007,5 de noviembre,Todos los Santos,Lunes
+2007,12 de noviembre,Independencia de Cartagena,Lunes
+2007,8 de diciembre,Inmaculada Concepción,Sábado
+2007,25 de diciembre,Navidad,Martes
+2008,1 de enero,Año Nuevo,Martes
+2008,7 de enero,Epifanía,Lunes
+2008,20 de marzo,Jueves Santo,Jueves
+2008,21 de marzo,Viernes Santo,Viernes
+2008,24 de marzo,Día de San José,Lunes
+2008,1 de mayo,Día del trabajo,Jueves
+2008,5 de mayo,Ascensión de Jesús,Lunes
+2008,26 de mayo,Corpus Christi,Lunes
+2008,2 de junio,Sagrado Corazón de Jesús,Lunes
+2008,30 de junio,San Pedro y San Pablo,Lunes
+2008,20 de julio,Día de la independencia,Domingo
+2008,7 de agosto,Batalla de Boyacá,Jueves
+2008,18 de agosto,Asunción de la Virgen,Lunes
+2008,13 de octubre,Día de la raza,Lunes
+2008,3 de noviembre,Todos los Santos,Lunes
+2008,17 de noviembre,Independencia de Cartagena,Lunes
+2008,8 de diciembre,Inmaculada Concepción,Lunes
+2008,25 de diciembre,Navidad,Jueves
+2009,1 de enero,Año Nuevo,Jueves
+2009,12 de enero,Epifanía,Lunes
+2009,23 de marzo,Día de San José,Lunes
+2009,9 de abril,Jueves Santo,Jueves
+2009,10 de abril,Viernes Santo,Viernes
+2009,1 de mayo,Día del trabajo,Viernes
+2009,25 de mayo,Ascensión de Jesús,Lunes
+2009,15 de junio,Corpus Christi,Lunes
+2009,22 de junio,Sagrado Corazón de Jesús,Lunes
+2009,29 de junio,San Pedro y San Pablo,Lunes
+2009,20 de julio,Día de la independencia,Lunes
+2009,7 de agosto,Batalla de Boyacá,Viernes
+2009,17 de agosto,Asunción de la Virgen,Lunes
+2009,12 de octubre,Día de la raza,Lunes
+2009,2 de noviembre,Todos los Santos,Lunes
+2009,16 de noviembre,Independencia de Cartagena,Lunes
+2009,8 de diciembre,Inmaculada Concepción,Martes
+2009,25 de diciembre,Navidad,Viernes
+2010,1 de enero,Año Nuevo,Viernes
+2010,11 de enero,Epifanía,Lunes
+2010,22 de marzo,Día de San José,Lunes
+2010,1 de abril,Jueves Santo,Jueves
+2010,2 de abril,Viernes Santo,Viernes
+2010,1 de mayo,Día del trabajo,Sábado
+2010,17 de mayo,Ascensión de Jesús,Lunes
+2010,7 de junio,Corpus Christi,Lunes
+2010,14 de junio,Sagrado Corazón de Jesús,Lunes
+2010,5 de julio,San Pedro y San Pablo,Lunes
+2010,20 de julio,Día de la independencia,Martes
+2010,7 de agosto,Batalla de Boyacá,Sábado
+2010,16 de agosto,Asunción de la Virgen,Lunes
+2010,18 de octubre,Día de la raza,Lunes
+2010,1 de noviembre,Todos los Santos,Lunes
+2010,15 de noviembre,Independencia de Cartagena,Lunes
+2010,8 de diciembre,Inmaculada Concepción,Miércoles
+2010,25 de diciembre,Navidad,Sábado
+2011,1 de enero,Año Nuevo,Sábado
+2011,10 de enero,Epifanía,Lunes
+2011,21 de marzo,Día de San José,Lunes
+2011,21 de abril,Jueves Santo,Jueves
+2011,22 de abril,Viernes Santo,Viernes
+2011,1 de mayo,Día del trabajo,Domingo
+2011,6 de junio,Ascensión de Jesús,Lunes
+2011,27 de junio,Corpus Christi,Lunes
+2011,4 de julio,San Pedro y San Pablo,Lunes
+2011,4 de julio,Sagrado Corazón de Jesús,Lunes
+2011,20 de julio,Día de la independencia,Miércoles
+2011,7 de agosto,Batalla de Boyacá,Domingo
+2011,15 de agosto,Asunción de la Virgen,Lunes
+2011,17 de octubre,Día de la raza,Lunes
+2011,7 de noviembre,Todos los Santos,Lunes
+2011,14 de noviembre,Independencia de Cartagena,Lunes
+2011,8 de diciembre,Inmaculada Concepción,Jueves
+2011,25 de diciembre,Navidad,Domingo
+2012,1 de enero,Año Nuevo,Domingo
+2012,9 de enero,Epifanía,Lunes
+2012,19 de marzo,Día de San José,Lunes
+2012,5 de abril,Jueves Santo,Jueves
+2012,6 de abril,Viernes Santo,Viernes
+2012,1 de mayo,Día del trabajo,Martes
+2012,21 de mayo,Ascensión de Jesús,Lunes
+2012,11 de junio,Corpus Christi,Lunes
+2012,18 de junio,Sagrado Corazón de Jesús,Lunes
+2012,2 de julio,San Pedro y San Pablo,Lunes
+2012,20 de julio,Día de la independencia,Viernes
+2012,7 de agosto,Batalla de Boyacá,Martes
+2012,20 de agosto,Asunción de la Virgen,Lunes
+2012,15 de octubre,Día de la raza,Lunes
+2012,5 de noviembre,Todos los Santos,Lunes
+2012,12 de noviembre,Independencia de Cartagena,Lunes
+2012,8 de diciembre,Inmaculada Concepción,Sábado
+2012,25 de diciembre,Navidad,Martes
+2013,1 de enero,Año Nuevo,Martes
+2013,7 de enero,Epifanía,Lunes
+2013,25 de marzo,Día de San José,Lunes
+2013,28 de marzo,Jueves Santo,Jueves
+2013,29 de marzo,Viernes Santo,Viernes
+2013,1 de mayo,Día del trabajo,Miércoles
+2013,13 de mayo,Ascensión de Jesús,Lunes
+2013,3 de junio,Corpus Christi,Lunes
+2013,10 de junio,Sagrado Corazón de Jesús,Lunes
+2013,1 de julio,San Pedro y San Pablo,Lunes
+2013,20 de julio,Día de la independencia,Sábado
+2013,7 de agosto,Batalla de Boyacá,Miércoles
+2013,19 de agosto,Asunción de la Virgen,Lunes
+2013,14 de octubre,Día de la raza,Lunes
+2013,4 de noviembre,Todos los Santos,Lunes
+2013,11 de noviembre,Independencia de Cartagena,Lunes
+2013,8 de diciembre,Inmaculada Concepción,Domingo
+2013,25 de diciembre,Navidad,Miércoles
+2014,1 de enero,Año Nuevo,Miércoles
+2014,6 de enero,Epifanía,Lunes
+2014,24 de marzo,Día de San José,Lunes
+2014,17 de abril,Jueves Santo,Jueves
+2014,18 de abril,Viernes Santo,Viernes
+2014,1 de mayo,Día del trabajo,Jueves
+2014,2 de junio,Ascensión de Jesús,Lunes
+2014,23 de junio,Corpus Christi,Lunes
+2014,30 de junio,San Pedro y San Pablo,Lunes
+2014,30 de junio,Sagrado Corazón de Jesús,Lunes
+2014,20 de julio,Día de la independencia,Domingo
+2014,7 de agosto,Batalla de Boyacá,Jueves
+2014,18 de agosto,Asunción de la Virgen,Lunes
+2014,13 de octubre,Día de la raza,Lunes
+2014,3 de noviembre,Todos los Santos,Lunes
+2014,17 de noviembre,Independencia de Cartagena,Lunes
+2014,8 de diciembre,Inmaculada Concepción,Lunes
+2014,25 de diciembre,Navidad,Jueves
+2015,1 de enero,Año Nuevo,Jueves
+2015,12 de enero,Epifanía,Lunes
+2015,23 de marzo,Día de San José,Lunes
+2015,2 de abril,Jueves Santo,Jueves
+2015,3 de abril,Viernes Santo,Viernes
+2015,1 de mayo,Día del trabajo,Viernes
+2015,18 de mayo,Ascensión de Jesús,Lunes
+2015,8 de junio,Corpus Christi,Lunes
+2015,15 de junio,Sagrado Corazón de Jesús,Lunes
+2015,29 de junio,San Pedro y San Pablo,Lunes
+2015,20 de julio,Día de la independencia,Lunes
+2015,7 de agosto,Batalla de Boyacá,Viernes
+2015,17 de agosto,Asunción de la Virgen,Lunes
+2015,12 de octubre,Día de la raza,Lunes
+2015,2 de noviembre,Todos los Santos,Lunes
+2015,16 de noviembre,Independencia de Cartagena,Lunes
+2015,8 de diciembre,Inmaculada Concepción,Martes
+2015,25 de diciembre,Navidad,Viernes
+2016,1 de enero,Año Nuevo,Viernes
+2016,11 de enero,Epifanía,Lunes
+2016,21 de marzo,Día de San José,Lunes
+2016,24 de marzo,Jueves Santo,Jueves
+2016,25 de marzo,Viernes Santo,Viernes
+2016,1 de mayo,Día del trabajo,Domingo
+2016,9 de mayo,Ascensión de Jesús,Lunes
+2016,30 de mayo,Corpus Christi,Lunes
+2016,6 de junio,Sagrado Corazón de Jesús,Lunes
+2016,4 de julio,San Pedro y San Pablo,Lunes
+2016,20 de julio,Día de la independencia,Miércoles
+2016,7 de agosto,Batalla de Boyacá,Domingo
+2016,15 de agosto,Asunción de la Virgen,Lunes
+2016,17 de octubre,Día de la raza,Lunes
+2016,7 de noviembre,Todos los Santos,Lunes
+2016,14 de noviembre,Independencia de Cartagena,Lunes
+2016,8 de diciembre,Inmaculada Concepción,Jueves
+2016,25 de diciembre,Navidad,Domingo
+2017,1 de enero,Año Nuevo,Domingo
+2017,9 de enero,Epifanía,Lunes
+2017,20 de marzo,Día de San José,Lunes
+2017,13 de abril,Jueves Santo,Jueves
+2017,14 de abril,Viernes Santo,Viernes
+2017,1 de mayo,Día del trabajo,Lunes
+2017,29 de mayo,Ascensión de Jesús,Lunes
+2017,19 de junio,Corpus Christi,Lunes
+2017,26 de junio,Sagrado Corazón de Jesús,Lunes
+2017,3 de julio,San Pedro y San Pablo,Lunes
+2017,20 de julio,Día de la independencia,Jueves
+2017,7 de agosto,Batalla de Boyacá,Lunes
+2017,21 de agosto,Asunción de la Virgen,Lunes
+2017,16 de octubre,Día de la raza,Lunes
+2017,6 de noviembre,Todos los Santos,Lunes
+2017,13 de noviembre,Independencia de Cartagena,Lunes
+2017,8 de diciembre,Inmaculada Concepción,Viernes
+2017,25 de diciembre,Navidad,Lunes
+2018,1 de enero,Año Nuevo,Lunes
+2018,8 de enero,Epifanía,Lunes
+2018,19 de marzo,Día de San José,Lunes
+2018,29 de marzo,Jueves Santo,Jueves
+2018,30 de marzo,Viernes Santo,Viernes
+2018,1 de mayo,Día del trabajo,Martes
+2018,14 de mayo,Ascensión de Jesús,Lunes
+2018,4 de junio,Corpus Christi,Lunes
+2018,11 de junio,Sagrado Corazón de Jesús,Lunes
+2018,2 de julio,San Pedro y San Pablo,Lunes
+2018,20 de julio,Día de la independencia,Viernes
+2018,7 de agosto,Batalla de Boyacá,Martes
+2018,20 de agosto,Asunción de la Virgen,Lunes
+2018,15 de octubre,Día de la raza,Lunes
+2018,5 de noviembre,Todos los Santos,Lunes
+2018,12 de noviembre,Independencia de Cartagena,Lunes
+2018,8 de diciembre,Inmaculada Concepción,Sábado
+2018,25 de diciembre,Navidad,Martes
+2019,1 de enero,Año Nuevo,Martes
+2019,7 de enero,Epifanía,Lunes
+2019,25 de marzo,Día de San José,Lunes
+2019,18 de abril,Jueves Santo,Jueves
+2019,19 de abril,Viernes Santo,Viernes
+2019,1 de mayo,Día del trabajo,Miércoles
+2019,3 de junio,Ascensión de Jesús,Lunes
+2019,24 de junio,Corpus Christi,Lunes
+2019,1 de julio,Sagrado Corazón de Jesús,Lunes
+2019,1 de julio,San Pedro y San Pablo,Lunes
+2019,20 de julio,Día de la independencia,Sábado
+2019,7 de agosto,Batalla de Boyacá,Miércoles
+2019,19 de agosto,Asunción de la Virgen,Lunes
+2019,14 de octubre,Día de la raza,Lunes
+2019,4 de noviembre,Todos los Santos,Lunes
+2019,11 de noviembre,Independencia de Cartagena,Lunes
+2019,8 de diciembre,Inmaculada Concepción,Domingo
+2019,25 de diciembre,Navidad,Miércoles
+2020,1 de enero,Año Nuevo,Miércoles
+2020,6 de enero,Epifanía,Lunes
+2020,23 de marzo,Día de San José,Lunes
+2020,9 de abril,Jueves Santo,Jueves
+2020,10 de abril,Viernes Santo,Viernes
+2020,1 de mayo,Día del trabajo,Viernes
+2020,25 de mayo,Ascensión de Jesús,Lunes
+2020,15 de junio,Corpus Christi,Lunes
+2020,22 de junio,Sagrado Corazón de Jesús,Lunes
+2020,29 de junio,San Pedro y San Pablo,Lunes
+2020,20 de julio,Día de la independencia,Lunes
+2020,7 de agosto,Batalla de Boyacá,Viernes
+2020,17 de agosto,Asunción de la Virgen,Lunes
+2020,12 de octubre,Día de la raza,Lunes
+2020,2 de noviembre,Todos los Santos,Lunes
+2020,16 de noviembre,Independencia de Cartagena,Lunes
+2020,8 de diciembre,Inmaculada Concepción,Martes
+2020,25 de diciembre,Navidad,Viernes
+2021,1 de enero,Año Nuevo,Viernes
+2021,11 de enero,Epifanía,Lunes
+2021,22 de marzo,Día de San José,Lunes
+2021,1 de abril,Jueves Santo,Jueves
+2021,2 de abril,Viernes Santo,Viernes
+2021,1 de mayo,Día del trabajo,Sábado
+2021,17 de mayo,Ascensión de Jesús,Lunes
+2021,7 de junio,Corpus Christi,Lunes
+2021,14 de junio,Sagrado Corazón de Jesús,Lunes
+2021,5 de julio,San Pedro y San Pablo,Lunes
+2021,20 de julio,Día de la independencia,Martes
+2021,7 de agosto,Batalla de Boyacá,Sábado
+2021,16 de agosto,Asunción de la Virgen,Lunes
+2021,18 de octubre,Día de la raza,Lunes
+2021,1 de noviembre,Todos los Santos,Lunes
+2021,15 de noviembre,Independencia de Cartagena,Lunes
+2021,8 de diciembre,Inmaculada Concepción,Miércoles
+2021,25 de diciembre,Navidad,Sábado
+2022,1 de enero,Año Nuevo,Sábado
+2022,10 de enero,Epifanía,Lunes
+2022,21 de marzo,Día de San José,Lunes
+2022,14 de abril,Jueves Santo,Jueves
+2022,15 de abril,Viernes Santo,Viernes
+2022,1 de mayo,Día del trabajo,Domingo
+2022,30 de mayo,Ascensión de Jesús,Lunes
+2022,20 de junio,Corpus Christi,Lunes
+2022,27 de junio,Sagrado Corazón de Jesús,Lunes
+2022,4 de julio,San Pedro y San Pablo,Lunes
+2022,20 de julio,Día de la independencia,Miércoles
+2022,7 de agosto,Batalla de Boyacá,Domingo
+2022,15 de agosto,Asunción de la Virgen,Lunes
+2022,17 de octubre,Día de la raza,Lunes
+2022,7 de noviembre,Todos los Santos,Lunes
+2022,14 de noviembre,Independencia de Cartagena,Lunes
+2022,8 de diciembre,Inmaculada Concepción,Jueves
+2022,25 de diciembre,Navidad,Domingo
+2023,1 de enero,Año Nuevo,Domingo
+2023,9 de enero,Epifanía,Lunes
+2023,20 de marzo,Día de San José,Lunes
+2023,6 de abril,Jueves Santo,Jueves
+2023,7 de abril,Viernes Santo,Viernes
+2023,1 de mayo,Día del trabajo,Lunes
+2023,22 de mayo,Ascensión de Jesús,Lunes
+2023,12 de junio,Corpus Christi,Lunes
+2023,19 de junio,Sagrado Corazón de Jesús,Lunes
+2023,3 de julio,San Pedro y San Pablo,Lunes
+2023,20 de julio,Día de la independencia,Jueves
+2023,7 de agosto,Batalla de Boyacá,Lunes
+2023,21 de agosto,Asunción de la Virgen,Lunes
+2023,16 de octubre,Día de la raza,Lunes
+2023,6 de noviembre,Todos los Santos,Lunes
+2023,13 de noviembre,Independencia de Cartagena,Lunes
+2023,8 de diciembre,Inmaculada Concepción,Viernes
+2023,25 de diciembre,Navidad,Lunes
+2024,1 de enero,Año Nuevo,Lunes
+2024,8 de enero,Epifanía,Lunes
+2024,25 de marzo,Día de San José,Lunes
+2024,28 de marzo,Jueves Santo,Jueves
+2024,29 de marzo,Viernes Santo,Viernes
+2024,1 de mayo,Día del trabajo,Miércoles
+2024,13 de mayo,Ascensión de Jesús,Lunes
+2024,3 de junio,Corpus Christi,Lunes
+2024,10 de junio,Sagrado Corazón de Jesús,Lunes
+2024,1 de julio,San Pedro y San Pablo,Lunes
+2024,20 de julio,Día de la independencia,Sábado
+2024,7 de agosto,Batalla de Boyacá,Miércoles
+2024,19 de agosto,Asunción de la Virgen,Lunes
+2024,14 de octubre,Día de la raza,Lunes
+2024,4 de noviembre,Todos los Santos,Lunes
+2024,11 de noviembre,Independencia de Cartagena,Lunes
+2024,8 de diciembre,Inmaculada Concepción,Domingo
+2024,25 de diciembre,Navidad,Miércoles
