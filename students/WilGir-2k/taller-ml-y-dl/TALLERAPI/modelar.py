@@ -30,7 +30,7 @@ model.fit(X_train, y_train)
 # Predicciones y evaluación del modelo
 y_pred = model.predict(X_test)
 mse = mean_squared_error(y_test, y_pred)
-print("Mean Squared Error:", mse)
+print("Modelo creado:", mse)
 
 # Guardar el modelo entrenado
 joblib.dump(model, 'temperature_prediction_model.pkl')

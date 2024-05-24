@@ -17,3 +17,6 @@ curl -X 'POST' \
   "RUMBO": 353,
   "BATERIA": 119
 }'
+
+
+# uvicorn api:app --reload

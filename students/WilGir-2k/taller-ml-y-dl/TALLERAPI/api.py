@@ -24,6 +24,7 @@ class TemperaturePredictionInput(BaseModel):
 
 class TemperaturePredictionOutput(BaseModel):
     AIRETEMPERATURA: float
+    
 
 # Inicializar la aplicación FastAPI
 app = FastAPI()
