@@ -167,3 +167,6 @@ students/jcmv-2k24s1/.dbeaver/.project-metadata.json.bak
 
 #Jupyter
 .ipynb_checkpoints
+
+
+*.csv
