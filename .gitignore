@@ -161,7 +161,7 @@ cython_debug/
 
 #DBeaver
 *.json.bak
-*credentials-config.json
+.dbeaver/credentials-config.json
 students/jcmv-2k24s1/.dbeaver/project-metadata.json
 students/jcmv-2k24s1/.dbeaver/.project-metadata.json.bak
 
@@ -170,3 +170,4 @@ students/jcmv-2k24s1/.dbeaver/.project-metadata.json.bak
 
 
 *.csv
+*.zip
